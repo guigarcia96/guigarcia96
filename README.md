@@ -9,8 +9,8 @@ Aqui você encontrará todos os projetos em que estou trabalhando e também os q
 
 - 🔭 [Ecoleta](https://github.com/guigarcia96/EColeta)
 - 🔭 [Meu Blog Dev](https://github.com/guigarcia96/meusite)
-- 🔭 [Site Ellen] (https://github.com/guigarcia96/site_ellen)
-- 🔭 [Be The Hero] (https://github.com/guigarcia96/be-the-hero)
+- 🔭 [Site Ellen](https://github.com/guigarcia96/site_ellen)
+- 🔭 [Be The Hero](https://github.com/guigarcia96/be-the-hero)
 
 Fique à vontade para olhar, tirar dúdivas e também clonar os projetos.
 
