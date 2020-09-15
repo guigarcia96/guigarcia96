@@ -11,6 +11,9 @@ Aqui você encontrará todos os projetos em que estou trabalhando e também os q
 - 🔭 [Meu Blog Dev](https://github.com/guigarcia96/meusite)
 - 🔭 [Site Ellen](https://github.com/guigarcia96/site_ellen)
 - 🔭 [Be The Hero](https://github.com/guigarcia96/be-the-hero)
+- 🔭 [Marvel Characters](https://github.com/guigarcia96/MarvelCharacters)
+- 🔭 [Real To Dollar](https://github.com/guigarcia96/Real To Dollar)
+- 🔭 [GM Flix](https://github.com/guigarcia96/ImersaoReact)
 
 Fique à vontade para olhar, tirar dúdivas e também clonar os projetos.
 
