@@ -14,13 +14,15 @@ Aqui você encontrará todos os projetos em que estou trabalhando e também os q
 - 🔭 [Marvel Characters](https://github.com/guigarcia96/MarvelCharacters)
 - 🔭 [Real To Dollar](https://github.com/guigarcia96/RealToDollar)
 - 🔭 [GM Flix](https://github.com/guigarcia96/ImersaoReact)
+- 🔭 [GIFs Canarinho Pistola](https://github.com/guigarcia96/gifcanarinhopistola)
+- 🔭 [Sons de Desenhos](https://github.com/guigarcia96/sondesenhos)
 
 Fique à vontade para olhar, tirar dúdivas e também clonar os projetos.
 
 📫 Qualquer dúvida, pode me encontrar em:
 
 - [Linkedin](https://www.linkedin.com/in/guilherme-garcia-dos-santos-40b63891)
-- [Instagram](https://www.instagram.com/eudesenvolvedorweb/)
+- [Instagram](https://www.instagram.com/eudesenvolvedor/)
 - [Telegram](https://t.me/guigarciam)
 - [Meu Site](https://meublogdev.netlify.app/)
 
