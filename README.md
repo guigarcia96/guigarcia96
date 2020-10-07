@@ -16,6 +16,7 @@ Aqui você encontrará todos os projetos em que estou trabalhando e também os q
 - 🔭 [GM Flix](https://github.com/guigarcia96/ImersaoReact)
 - 🔭 [GIFs Canarinho Pistola](https://github.com/guigarcia96/gifcanarinhopistola)
 - 🔭 [Sons de Desenhos](https://github.com/guigarcia96/sondesenhos)
+- 🔭 [The Movie App](https://github.com/guigarcia96/TheMovieApp)
 
 Fique à vontade para olhar, tirar dúdivas e também clonar os projetos.
 
