@@ -3,7 +3,7 @@
 
 ### Seja Bem-Vindo 👋
 
-Meu nome é Guilherme Moraes, tenho 24 anos e sou Desenvolvedor Mobile e Frontend. No momento estou procurando uma oportunidade de atuar como Desenvolvedor Júnior.
+Meu nome é Guilherme Moraes, tenho 24 anos. No momento atuando como Desenvolvedor Mobile
 
 Aqui você encontrará todos os projetos em que estou trabalhando e também os que ja trabalhei.
 
