@@ -22,7 +22,7 @@ Fique à vontade para olhar, tirar dúdivas e também clonar os projetos.
 
 📫 Qualquer dúvida, pode me encontrar em:
 
-- [Linkedin](https://www.linkedin.com/in/guilherme-garcia-dos-santos-40b63891)
+- [Linkedin](https://www.linkedin.com/in/ggarciamoraes/)
 - [Instagram](https://www.instagram.com/eudesenvolvedor/)
 - [Telegram](https://t.me/guigarciam)
 - [Meu Site](https://meublogdev.netlify.app/)
