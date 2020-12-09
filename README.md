@@ -3,7 +3,7 @@
 
 ### Seja Bem-Vindo 👋
 
-Meu nome é Guilherme Moraes, tenho 24 anos. No momento atuando como Desenvolvedor Mobile
+Meu nome é Guilherme Moraes, tenho 24 anos. No momento atuando como Desenvolvedor IOS
 
 Aqui você encontrará todos os projetos em que estou trabalhando e também os que ja trabalhei.
 
