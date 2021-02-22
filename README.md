@@ -3,6 +3,19 @@
 
 ### Seja Bem-Vindo 👋
 
+<a href="https://www.linkedin.com/in/ggarciamoraes/">
+  <img align="left" alt="Decio's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://www.instagram.com/eudesenvolvedor/">
+  <img align="left" alt="Decio's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://meublogdev.netlify.app/">
+  <img align="left" alt="Decio's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+
+<br />
+<br />
+
 Meu nome é Guilherme Moraes, tenho 24 anos. No momento atuando como Desenvolvedor IOS
 
 Aqui você encontrará todos os projetos em que estou trabalhando e também os que ja trabalhei.
@@ -18,12 +31,6 @@ Aqui você encontrará todos os projetos em que estou trabalhando e também os q
 
 Fique à vontade para olhar, tirar dúdivas e também clonar os projetos.
 
-📫 Qualquer dúvida, pode me encontrar em:
-
-- [Linkedin](https://www.linkedin.com/in/ggarciamoraes/)
-- [Instagram](https://www.instagram.com/eudesenvolvedor/)
-- [Telegram](https://t.me/guigarciam)
-- [Meu Site](https://meublogdev.netlify.app/)
 
 
 
