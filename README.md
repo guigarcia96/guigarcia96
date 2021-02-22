@@ -14,7 +14,7 @@
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" />
 
-I'm Guilherme Moraes, a brazillian iOS Developer tha loves codding.
+I'm Guilherme Moraes, a brazillian iOS Developer that loves codding.
 
 Here you can see the projects that I workeed, feel free to observe and clone.
 
@@ -35,3 +35,5 @@ Here you can see the projects that I workeed, feel free to observe and clone.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
+
+![Guilherme's github stats](https://github-readme-stats.vercel.app/api?username=guigarcia96&show_icons=true&hide_border=true)
