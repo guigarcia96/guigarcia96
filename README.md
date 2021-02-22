@@ -12,9 +12,9 @@
 <br />
 <br />
 
-I'm Guilherme Moraes, a brazillian iOS Developer tha loves codding.
-
 <img align="right" alt="GIF" src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" />
+
+I'm Guilherme Moraes, a brazillian iOS Developer tha loves codding.
 
 Here you can see the projects that I workeed, feel free to observe and clone.
 
