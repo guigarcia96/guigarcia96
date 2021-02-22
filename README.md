@@ -7,10 +7,8 @@ Meu nome é Guilherme Moraes, tenho 24 anos. No momento atuando como Desenvolved
 
 Aqui você encontrará todos os projetos em que estou trabalhando e também os que ja trabalhei.
 
-- 🔭 [Ecoleta](https://github.com/guigarcia96/EColeta)
 - 🔭 [Meu Blog Dev](https://github.com/guigarcia96/meusite)
 - 🔭 [Site Ellen](https://github.com/guigarcia96/site_ellen)
-- 🔭 [Be The Hero](https://github.com/guigarcia96/be-the-hero)
 - 🔭 [Marvel Characters](https://github.com/guigarcia96/MarvelCharacters)
 - 🔭 [Real To Dollar](https://github.com/guigarcia96/RealToDollar)
 - 🔭 [GM Flix](https://github.com/guigarcia96/ImersaoReact)
