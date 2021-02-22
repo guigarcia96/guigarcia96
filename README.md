@@ -16,40 +16,21 @@
 <br />
 <br />
 
-Meu nome é Guilherme Moraes, tenho 24 anos. No momento atuando como Desenvolvedor IOS
+I'm Guilherme Moraes, a brazillian iOS Developer tha loves codding.
 
-Aqui você encontrará todos os projetos em que estou trabalhando e também os que ja trabalhei.
+Here you can see the projects that I workeed, feel free to observe and clone.
 
-- 🔭 [Meu Blog Dev](https://github.com/guigarcia96/meusite)
-- 🔭 [Site Ellen](https://github.com/guigarcia96/site_ellen)
-- 🔭 [Marvel Characters](https://github.com/guigarcia96/MarvelCharacters)
-- 🔭 [Real To Dollar](https://github.com/guigarcia96/RealToDollar)
-- 🔭 [GM Flix](https://github.com/guigarcia96/ImersaoReact)
-- 🔭 [GIFs Canarinho Pistola](https://github.com/guigarcia96/gifcanarinhopistola)
-- 🔭 [Sons de Desenhos](https://github.com/guigarcia96/sondesenhos)
-- 🔭 [The Movie App](https://github.com/guigarcia96/TheMovieApp)
+**Talking about Personal Stuffs:**
 
-Fique à vontade para olhar, tirar dúdivas e também clonar os projetos.
+- 📱 I have a Bachelor's degree in Information System; 
+- 💬 Ask me about anything, I am happy to help;
+- 📝 See my [Dev Blog](https://meublogdev.netlify.app/) to get some tips about development.
 
 
+**Languages and Tools:**  
 
-
-
-
-
-
-
-<!--
-**guigarcia96/guigarcia96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
