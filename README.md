@@ -1,7 +1,7 @@
 ![download](https://user-images.githubusercontent.com/22078132/87231043-39bfdd80-c38a-11ea-8cb0-2bf634c79211.jpeg)
 
 
-### Seja Bem-Vindo 👋
+### Welcome 👋
 
 <a href="https://www.linkedin.com/in/ggarciamoraes/">
   <img align="left" alt="Guilherme's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
