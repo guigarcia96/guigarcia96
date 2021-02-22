@@ -4,23 +4,20 @@
 ### Seja Bem-Vindo 👋
 
 <a href="https://www.linkedin.com/in/ggarciamoraes/">
-  <img align="left" alt="Decio's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Guilherme's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/eudesenvolvedor/">
-  <img align="left" alt="Decio's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Guilherme's Instagram Page" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://meublogdev.netlify.app/">
-  <img align="left" alt="Decio's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-
 <br />
 <br />
 
 I'm Guilherme Moraes, a brazillian iOS Developer tha loves codding.
 
+<img align="right" alt="GIF" src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" />
+
 Here you can see the projects that I workeed, feel free to observe and clone.
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" />
 
 **Talking about Personal Stuffs:**
 
