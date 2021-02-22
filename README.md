@@ -20,6 +20,8 @@ I'm Guilherme Moraes, a brazillian iOS Developer tha loves codding.
 
 Here you can see the projects that I workeed, feel free to observe and clone.
 
+<img align="right" alt="GIF" src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" />
+
 **Talking about Personal Stuffs:**
 
 - 📱 I have a Bachelor's degree in Information System; 
