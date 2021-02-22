@@ -16,7 +16,7 @@
 
 I'm Guilherme Moraes, a brazillian iOS Developer that loves codding.
 
-Here you can see the projects that I workeed, feel free to observe and clone.
+Here you can see the projects that I worked, feel free to observe and clone.
 
 
 **Talking about Personal Stuffs:**
