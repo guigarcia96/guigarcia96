@@ -14,9 +14,6 @@
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/PiQejEf31116URju4V/giphy.gif" />
 
-<br />
-<br />
-
 I'm Guilherme Moraes, a brazillian iOS Developer that loves codding.
 
 Here you can see the projects that I workeed, feel free to observe and clone.
